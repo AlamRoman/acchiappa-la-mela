@@ -1,0 +1,7 @@
+L'obiettivo del gioco è di raccogliere le mele non facendosi colpire dalle gocce d'acqua.
+
+Cliccare non il pulsante sinistro del mouse sul triangolo gioca per iniziare a giocare.
+
+Per muovere l'android bisogna usare frecce della tastiera.
+
+Premere 'a' per aggiungere una mela. Premere 'r' per rimuovere una mela.
